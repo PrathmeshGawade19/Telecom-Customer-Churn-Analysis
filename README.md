@@ -4,13 +4,13 @@ Analyzing customer churn data from a telecom company to uncover key factors that
 
 ---
 
-## 📁 Project Overview
+## Project Overview
 
 Customer churn — when customers stop using a service — is a major concern for subscription-based businesses. In the telecom industry, high churn leads to substantial revenue loss and increased acquisition costs. This project explores a real-world telecom dataset to identify patterns and factors associated with customer churn using Exploratory Data Analysis (EDA).
 
 ---
 
-## 📊 Objective
+## Objective
 
 - Understand overall churn trends and distribution
 - Identify customer segments with high churn rates
@@ -20,7 +20,7 @@ Customer churn — when customers stop using a service — is a major concern fo
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 - Source: [Kaggle - Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - Records: 7,043 customers
@@ -28,7 +28,7 @@ Customer churn — when customers stop using a service — is a major concern fo
 
 ---
 
-## 🧰 Tools and Libraries
+## Tools and Libraries
 
 - Python (Google Colab)
 - Pandas, NumPy
@@ -37,7 +37,7 @@ Customer churn — when customers stop using a service — is a major concern fo
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 - **Churn Rate**: Approximately **26.54%** of customers have churned.
 - **Tenure**: Customers with a short tenure (1–2 months) are **far more likely to churn** than long-term users.
@@ -53,7 +53,7 @@ Customer churn — when customers stop using a service — is a major concern fo
 
 ---
 
-## 💡 Business Insights & Recommendations
+## Business Insights & Recommendations
 
 1. **Churn is a major issue** – over 25% churn rate results in significant revenue loss.
 2. **Focus on early retention** – customers are most vulnerable in the first few months.
